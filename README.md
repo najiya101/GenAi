@@ -3,5 +3,7 @@
 
 # Tools and Technologies
 Google Colab: An online platform providing free access to powerful GPUs and a collaborative environment.
+
 Hugging Face Transformers: A library offering a variety of pre-trained models for natural language processing (NLP).
+
 Langchain: A framework for building applications with large language models.
